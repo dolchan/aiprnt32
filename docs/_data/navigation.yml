@@ -1,0 +1,23 @@
+# main links
+main:
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+
+  - title: "CCSB"
+    url: https://ccsb.pvamu.edu
+
+  - title: "X"
+
+  - title: "Y"
+    url: https://www.pvamu.edu
+  - title: "Z"
+    url: https://google.com
+
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/

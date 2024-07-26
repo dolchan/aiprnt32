@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: AI for Precision Nutrition Research T32 training program at Prairie View A&M University
+title: AIPrN@PVAMU
 email: sekim@pvamu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
