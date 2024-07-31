@@ -21,9 +21,12 @@
 title: AIPrN@PVAMU
 email: sekim@pvamu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This initiative aims to increase and diversify the future workforce in 
+  Artificial Intelligence for Precision Nutrition Science Research (AIPrN). 
+  Advancing research in AIPrN will lead to the development of innovative 
+  solutions to promote nutrition and health equity among underserved populations, 
+  particularly in the context of food insecurity, obesity, type 2 diabetes, 
+  cardiovascular diseases, and cancer. 
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dolchan.github.io/aiprnt32/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: aiprn_pvamu
@@ -35,6 +38,34 @@ remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+
+
+# skin
+# minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "aqua" 
+
+
+# repository
+repository: "dolchan/aiprnt32"
+
+
+# teaser
+teaser: /assets/images/500x300.png
+
+
+# breadcrumb
+breadcrumbs: true  # disabled by default
+
+
+# Post dates
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      show_date: true
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

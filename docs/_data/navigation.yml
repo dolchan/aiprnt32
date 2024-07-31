@@ -1,20 +1,26 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "AI x PNR"
+    url: http://127.0.0.1:4000
 
-  - title: "CCSB"
-    url: https://ccsb.pvamu.edu
+  - title: "T32 Program"
+    url: /t32program/
 
-  - title: "X"
+  - title: "Curriculum"
+    url: /curriculum/
 
-  - title: "Y"
-    url: https://www.pvamu.edu
-  - title: "Z"
-    url: https://google.com
+  - title: "Handbooks"
+    url: /handbooks/
 
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "People"
+    url: /people/
+
+  - title: "News/Events"
+    url: /news/
+
+  - title: "Contact"
+    url: /contact/
+
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
