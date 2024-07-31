@@ -5,9 +5,12 @@ permalink: /handbooks/
 categories: handbooks
 ---
 
-### Faculty Mentors
-### Pre-doctoral trainees
-### Post-doctoral trainees
+Add some introductory texts here...
+
+
+### [Faculty Mentors](faculty/)
+### [Pre-doctoral trainees](trainees/)
+### [Post-doctoral trainees](trainees/)
 
 
 To be added (TBA)
