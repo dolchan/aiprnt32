@@ -5,7 +5,7 @@ permalink: /people/
 categories: People
 ---
 
-### [PIs](MPD)
+### [Executive Committee](MPD)
 ### [Faculty Mentors](faculty)
 ### Trainees
 
