@@ -4,7 +4,7 @@ main:
     url: /
 
   - title: "T32 Program"
-    url: /t32program/
+    url: /t32/
 
   - title: "Curriculum"
     url: /curriculum/
@@ -16,7 +16,8 @@ main:
     url: /people/
 
   - title: "News/Events"
-    url: /news/
+    # url: /news/
+    url: /year-archive/
 
   - title: "Contact"
     url: /contact/
