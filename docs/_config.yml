@@ -28,6 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   particularly in the context of food insecurity, obesity, type 2 diabetes, 
   cardiovascular diseases, and cancer. 
 # baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/airprnt32" # the subpath of your site, e.g. /blog
 url: "https://dolchan.github.io/aiprnt32" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: aiprn_pvamu
 github_username:  aiprn_pvamu
